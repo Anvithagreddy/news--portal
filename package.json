@@ -1,0 +1,26 @@
+{
+  "name": "News-portal",
+  "version": "1.0.0",
+  "description": "mean stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "David Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "mongoose-title-case": "^0.1.1",
+    "mongoose-validator": "^2.1.0",
+    "morgan": "^1.10.0",
+    "nodejs": "0.0.0"
+  }
+}
